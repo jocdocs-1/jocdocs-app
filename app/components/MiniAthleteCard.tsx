@@ -1,6 +1,6 @@
 "use client";
 
-import type { Athlete } from "./AthleteCard";
+import type { Athlete } from "../data/athletes";
 
 interface MiniAthleteCardProps {
   athlete: Athlete;

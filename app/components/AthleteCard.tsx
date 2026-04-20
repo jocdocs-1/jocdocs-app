@@ -9,7 +9,7 @@ import {
   UserPlus,
 } from "lucide-react";
 import type { Athlete } from "../data/athletes";
-import { allison } from "../layout";
+import { allison } from "../fonts";
 
 const themeMap: Record<string, { from: string; to: string }> = {
   gold: { from: "#eab308", to: "#a16207" },
